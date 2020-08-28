@@ -1,0 +1,29 @@
+{
+  "name": "texthesia",
+  "version": "1.0.0",
+  "description": "STT to TTS for Vtuber using web base technology ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pureexe/texthesia.git"
+  },
+  "keywords": [
+    "TTS",
+    "STT",
+    "Vtuber",
+    "virtual",
+    "youtuber"
+  ],
+  "author": "Pakkapon Phongthawee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pureexe/texthesia/issues"
+  },
+  "homepage": "https://github.com/pureexe/texthesia#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
